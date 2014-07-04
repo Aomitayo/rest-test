@@ -1,0 +1,31 @@
+{
+  "name": "rest-test",
+  "version": "0.0.1",
+  "description": "A DSL for testing RESTFull apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Aomitayo/rest-test"
+  },
+  "keywords": [
+    "REST",
+    "test"
+  ],
+  "author": "Adedayo Omitayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aomitayo/rest-test/issues"
+  },
+  "homepage": "https://github.com/Aomitayo/rest-test",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "debug": "^1.0.2",
+    "lodash": "^2.4.1",
+    "mocha": "^1.20.1",
+    "q": "^1.0.1",
+    "supertest": "^0.13.0"
+  }
+}
