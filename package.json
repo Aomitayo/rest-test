@@ -1,6 +1,6 @@
 {
   "name": "rest-test",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A DSL for testing RESTFull apis",
   "main": "index.js",
   "scripts": {
